@@ -15,6 +15,7 @@ RSSTS = Report Screenshot To Slack
 ## Support
 
 **ONLY iOS**
+**ONLY Dynamic Library**
 
 ## Usage
 
